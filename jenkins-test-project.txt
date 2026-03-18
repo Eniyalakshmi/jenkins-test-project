@@ -1,0 +1,6 @@
+jenkins-test-project/
+ ├── app.py
+ ├── Jenkinsfile
+ ├── requirements.txt
+ ├── README.md
+ └── .gitignore
